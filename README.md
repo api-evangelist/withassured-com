@@ -64,5 +64,23 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Assured is a company surfaced via the API Evangelist harvest backlog (source: vc-portfolio; backed by kindred-ventures) and added to the network as a stub for full-pipeline profiling.
-- https://withassured.com/
+Assured provides an AI‑powered platform that streamlines provider credentialing, payer enrollment, and network management for health systems, digital‑health companies, and multi‑specialty groups. The solution automates credentialing committee readiness, reduces enrollment time to under 48 hours, and offers tools such as NPI and PECOS lookup, licensing, and roster management. Backed by Kindred Ventures, Assured aims to simplify compliance and accelerate onboarding across the healthcare ecosystem.
+
+**Areas:** Company · Healthcare · Credentialing · AI · Platform
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://withassured.com/)
+- [Documentation](https://www.withassured.com/)
+- [API reference](https://developers.withassured.com/llms.txt)
+- [Blog](https://www.withassured.com/blog/)
+- [Terms of service](https://www.withassured.com/terms-and-condition)
+- [Privacy policy](https://www.withassured.com/privacy-policy)
+
+**APIs profiled:** 1
+
+## API Evangelist rating
+
+Not yet rated. See [apis.io/providers/withassured-com/](https://apis.io/providers/withassured-com/).
